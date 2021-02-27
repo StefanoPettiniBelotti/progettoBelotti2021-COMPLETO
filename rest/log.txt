@@ -1,0 +1,48 @@
+2021-02-27 10:24:34 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-02-27 10:24:34 - INFO - connect, Connessione di default
+2021-02-27 10:24:34 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-02-27 10:24:34 - DEBUG - Tentativo di connessione
+2021-02-27 10:24:36 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+2021-02-27 10:24:36 - DEBUG - Errore connessione null
+2021-02-27 10:24:45 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-02-27 10:24:45 - INFO - connect, Connessione di default
+2021-02-27 10:24:45 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-02-27 10:24:45 - DEBUG - Tentativo di connessione
+2021-02-27 10:24:47 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+2021-02-27 10:24:47 - DEBUG - Errore connessione null
+2021-02-27 10:25:14 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-02-27 10:25:14 - INFO - connect, Connessione di default
+2021-02-27 10:25:14 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-02-27 10:25:14 - DEBUG - Tentativo di connessione
+2021-02-27 10:25:15 - DEBUG - Connessione riuscita
+2021-02-27 10:25:15 - DEBUG - Creo la query
+2021-02-27 10:25:15 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-02-27 10:25:15 - DEBUG - Chiudo la connessione
+2021-02-27 10:25:15 - INFO - closeConnection, chiudo la connessione
+2021-02-27 10:25:17 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-02-27 10:25:17 - INFO - connect, Connessione di default
+2021-02-27 10:25:17 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-02-27 10:25:17 - DEBUG - Tentativo di connessione
+2021-02-27 10:25:18 - DEBUG - Connessione riuscita
+2021-02-27 10:25:18 - DEBUG - Creo la query
+2021-02-27 10:25:18 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-02-27 10:25:18 - DEBUG - Chiudo la connessione
+2021-02-27 10:25:18 - INFO - closeConnection, chiudo la connessione
+2021-02-27 10:29:27 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-02-27 10:29:27 - INFO - connect, Connessione di default
+2021-02-27 10:29:27 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-02-27 10:29:27 - DEBUG - Tentativo di connessione
+2021-02-27 10:29:29 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+2021-02-27 10:29:29 - DEBUG - Errore connessione null
+2021-02-27 10:29:34 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-02-27 10:29:34 - INFO - connect, Connessione di default
+2021-02-27 10:29:34 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-02-27 10:29:34 - DEBUG - Tentativo di connessione
+2021-02-27 10:29:35 - DEBUG - Connessione riuscita
+2021-02-27 10:29:35 - DEBUG - Creo la query
+2021-02-27 10:29:35 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-02-27 10:29:35 - DEBUG - Chiudo la connessione
+2021-02-27 10:29:35 - INFO - closeConnection, chiudo la connessione
