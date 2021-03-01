@@ -1,48 +1,46 @@
-2021-02-27 10:24:34 - INFO - getDaoByKey, tabella:clienti, chiave:
-2021-02-27 10:24:34 - INFO - connect, Connessione di default
-2021-02-27 10:24:34 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
-2021-02-27 10:24:34 - DEBUG - Tentativo di connessione
-2021-02-27 10:24:36 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+2021-03-01 17:36:21 - DEBUG - test
+2021-03-01 17:37:46 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-01 17:37:46 - INFO - connect, Connessione di default
+2021-03-01 17:38:23 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-01 17:38:23 - INFO - connect, Connessione di default
+2021-03-01 17:38:23 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-01 17:38:23 - DEBUG - Tentativo di connessione
+2021-03-01 17:38:24 - DEBUG - Connessione riuscita
+2021-03-01 17:38:24 - DEBUG - Creo la query
+2021-03-01 17:38:24 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-01 17:38:24 - DEBUG - Chiudo la connessione
+2021-03-01 17:38:24 - INFO - closeConnection, chiudo la connessione
+2021-03-01 17:39:14 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-01 17:39:14 - INFO - connect, Connessione di default
+2021-03-01 17:39:14 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-01 17:39:14 - DEBUG - Tentativo di connessione
+2021-03-01 17:39:16 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
 
-2021-02-27 10:24:36 - DEBUG - Errore connessione null
-2021-02-27 10:24:45 - INFO - getDaoByKey, tabella:clienti, chiave:
-2021-02-27 10:24:45 - INFO - connect, Connessione di default
-2021-02-27 10:24:45 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
-2021-02-27 10:24:45 - DEBUG - Tentativo di connessione
-2021-02-27 10:24:47 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
-
-2021-02-27 10:24:47 - DEBUG - Errore connessione null
-2021-02-27 10:25:14 - INFO - getDaoByKey, tabella:clienti, chiave:
-2021-02-27 10:25:14 - INFO - connect, Connessione di default
-2021-02-27 10:25:14 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
-2021-02-27 10:25:14 - DEBUG - Tentativo di connessione
-2021-02-27 10:25:15 - DEBUG - Connessione riuscita
-2021-02-27 10:25:15 - DEBUG - Creo la query
-2021-02-27 10:25:15 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
-2021-02-27 10:25:15 - DEBUG - Chiudo la connessione
-2021-02-27 10:25:15 - INFO - closeConnection, chiudo la connessione
-2021-02-27 10:25:17 - INFO - getDaoByKey, tabella:clienti, chiave:
-2021-02-27 10:25:17 - INFO - connect, Connessione di default
-2021-02-27 10:25:17 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
-2021-02-27 10:25:17 - DEBUG - Tentativo di connessione
-2021-02-27 10:25:18 - DEBUG - Connessione riuscita
-2021-02-27 10:25:18 - DEBUG - Creo la query
-2021-02-27 10:25:18 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
-2021-02-27 10:25:18 - DEBUG - Chiudo la connessione
-2021-02-27 10:25:18 - INFO - closeConnection, chiudo la connessione
-2021-02-27 10:29:27 - INFO - getDaoByKey, tabella:clienti, chiave:
-2021-02-27 10:29:27 - INFO - connect, Connessione di default
-2021-02-27 10:29:27 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
-2021-02-27 10:29:27 - DEBUG - Tentativo di connessione
-2021-02-27 10:29:29 - ERROR - Errore di connessione Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
-
-2021-02-27 10:29:29 - DEBUG - Errore connessione null
-2021-02-27 10:29:34 - INFO - getDaoByKey, tabella:clienti, chiave:
-2021-02-27 10:29:34 - INFO - connect, Connessione di default
-2021-02-27 10:29:34 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
-2021-02-27 10:29:34 - DEBUG - Tentativo di connessione
-2021-02-27 10:29:35 - DEBUG - Connessione riuscita
-2021-02-27 10:29:35 - DEBUG - Creo la query
-2021-02-27 10:29:35 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
-2021-02-27 10:29:35 - DEBUG - Chiudo la connessione
-2021-02-27 10:29:35 - INFO - closeConnection, chiudo la connessione
+2021-03-01 17:39:16 - DEBUG - Errore connessione null
+2021-03-01 17:39:31 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-01 17:39:31 - INFO - connect, Connessione di default
+2021-03-01 17:39:31 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-01 17:39:31 - DEBUG - Tentativo di connessione
+2021-03-01 17:39:32 - DEBUG - Connessione riuscita
+2021-03-01 17:39:32 - DEBUG - Creo la query
+2021-03-01 17:39:32 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-01 17:39:32 - DEBUG - Chiudo la connessione
+2021-03-01 17:39:32 - INFO - closeConnection, chiudo la connessione
+2021-03-01 17:39:59 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-01 17:39:59 - INFO - connect, Connessione di default
+2021-03-01 17:39:59 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-01 17:39:59 - DEBUG - Tentativo di connessione
+2021-03-01 17:40:00 - DEBUG - Connessione riuscita
+2021-03-01 17:40:00 - DEBUG - Creo la query
+2021-03-01 17:40:00 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-01 17:40:00 - DEBUG - Chiudo la connessione
+2021-03-01 17:40:00 - INFO - closeConnection, chiudo la connessione
+2021-03-01 17:41:29 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-01 17:41:29 - INFO - connect, Connessione di default
+2021-03-01 17:41:29 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-01 17:41:29 - DEBUG - Tentativo di connessione
+2021-03-01 17:41:30 - DEBUG - Connessione riuscita
+2021-03-01 17:41:30 - DEBUG - Creo la query
+2021-03-01 17:41:30 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-01 17:41:30 - DEBUG - Chiudo la connessione
+2021-03-01 17:41:30 - INFO - closeConnection, chiudo la connessione

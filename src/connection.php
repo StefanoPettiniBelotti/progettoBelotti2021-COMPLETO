@@ -31,7 +31,7 @@ function  connect(){
  * @param string $nomedb il nome del database
  * @return {} la connessione
  */
-function connectWithPar(string $nomehost, string $nomeuser, string $password, string $nomedb)
+function connectWithPar( $nomehost,  $nomeuser,  $password,  $nomedb)
 {
     logInfo("connectWithPar, nomehost:".$nomehost.", nomeuser:" . $nomeuser . ", nomedb:" . $nomedb);
     $conn=null;

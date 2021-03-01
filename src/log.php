@@ -10,7 +10,7 @@ define("LOFFILENAME","log.txt");
  * @param string $msg il messaggio
  * @return void
  */
-function writeOnFile(string $logLevel, string $msg){
+function writeOnFile($logLevel, $msg){
     $myfile = fopen(LOFFILENAME, "a") or die("Unable to open file!");
     $now = new DateTime();
     $now->format('Y-m-d H:i:s');
@@ -23,7 +23,7 @@ function writeOnFile(string $logLevel, string $msg){
  * Logga a loglevel DEBUG
  * @param string $msg messaggio da loggare
  */
-function logDebug(string $msg){
+function logDebug($msg){
     writeOnFile("DEBUG",$msg);
 }
 
@@ -31,7 +31,7 @@ function logDebug(string $msg){
  * Logga a loglevel INFO
  * @param string $msg messaggio da loggare
  */
-function logInfo(string $msg){
+function logInfo($msg){
     writeOnFile("INFO",$msg);
 }
 
@@ -39,6 +39,6 @@ function logInfo(string $msg){
  * Logga a loglevel ERROR
  * @param string $msg messaggio da loggare
  */
-function logError(string $msg){
+function logError($msg){
     writeOnFile("ERROR",$msg);
 }

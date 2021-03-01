@@ -6,7 +6,7 @@
  * @param string $str 
  * @return boolean 
  */
-function IsNullOrEmptyString(?string $str){
+function IsNullOrEmptyString($str){
     return (!isset($str) || trim($str) === '');
 }
 
@@ -15,7 +15,7 @@ function IsNullOrEmptyString(?string $str){
  * @param string $string stringa da ripulire
  * @return string stringa ripulita
  */
-function clearString(?string $string){
+function clearString($string){
    return preg_replace("/\r\n|\r|\n/",'<br/>',$string);
 }
 

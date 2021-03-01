@@ -8,7 +8,7 @@ require_once '../src/dao.php';
     {
         // restituisco tutti i clienti
         $clienti=null;
-        $clienti=getDaoByKey("Clienti",null);
+        $clienti=getDaoByKey("Clienti","");
         if ($clienti){
             logDebug("rows:" . mysqli_num_rows($clienti));
             if (mysqli_num_rows($clienti)==0){

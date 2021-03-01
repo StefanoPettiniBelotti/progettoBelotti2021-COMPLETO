@@ -8,7 +8,7 @@ include_once 'connection.php';
  * @throws Exception se problemi
  * @return {} resultset di oggetti
  */
-function  getDaoByKey(string $name, ?string $key){
+function  getDaoByKey($name, $key){
     logInfo("getDaoByKey, tabella:" .  $name .", chiave:". $key);
     
     // mi connetto al database
@@ -20,7 +20,7 @@ function  getDaoByKey(string $name, ?string $key){
         // creo la query
         logDebug("Creo la query");
         $sql = "SELECT * FROM northwind." . $name;
-        if (isset($key))
+        if ($key!="")
         {
             // concateno la chiave
             $sql = $sql . " where ". $key;
