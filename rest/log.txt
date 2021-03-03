@@ -44,3 +44,66 @@
 2021-03-01 17:41:30 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
 2021-03-01 17:41:30 - DEBUG - Chiudo la connessione
 2021-03-01 17:41:30 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:06:57 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:06:57 - INFO - connect, Connessione di default
+2021-03-03 06:06:57 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:06:57 - DEBUG - Tentativo di connessione
+2021-03-03 06:06:58 - DEBUG - Connessione riuscita
+2021-03-03 06:06:58 - DEBUG - Creo la query
+2021-03-03 06:06:58 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:06:58 - DEBUG - Chiudo la connessione
+2021-03-03 06:06:58 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:09:59 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:09:59 - INFO - connect, Connessione di default
+2021-03-03 06:09:59 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:09:59 - DEBUG - Tentativo di connessione
+2021-03-03 06:10:00 - DEBUG - Connessione riuscita
+2021-03-03 06:10:00 - DEBUG - Creo la query
+2021-03-03 06:10:00 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:10:00 - DEBUG - Chiudo la connessione
+2021-03-03 06:10:00 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:11:23 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:11:23 - INFO - connect, Connessione di default
+2021-03-03 06:11:23 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:11:23 - DEBUG - Tentativo di connessione
+2021-03-03 06:11:24 - DEBUG - Connessione riuscita
+2021-03-03 06:11:24 - DEBUG - Creo la query
+2021-03-03 06:11:24 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:11:24 - DEBUG - Chiudo la connessione
+2021-03-03 06:11:24 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:11:29 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:11:29 - INFO - connect, Connessione di default
+2021-03-03 06:11:29 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:11:29 - DEBUG - Tentativo di connessione
+2021-03-03 06:11:30 - DEBUG - Connessione riuscita
+2021-03-03 06:11:30 - DEBUG - Creo la query
+2021-03-03 06:11:30 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:11:30 - DEBUG - Chiudo la connessione
+2021-03-03 06:11:30 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:11:39 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:11:39 - INFO - connect, Connessione di default
+2021-03-03 06:11:39 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:11:39 - DEBUG - Tentativo di connessione
+2021-03-03 06:11:40 - DEBUG - Connessione riuscita
+2021-03-03 06:11:40 - DEBUG - Creo la query
+2021-03-03 06:11:40 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:11:40 - DEBUG - Chiudo la connessione
+2021-03-03 06:11:40 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:11:46 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:11:46 - INFO - connect, Connessione di default
+2021-03-03 06:11:46 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:11:46 - DEBUG - Tentativo di connessione
+2021-03-03 06:11:47 - DEBUG - Connessione riuscita
+2021-03-03 06:11:47 - DEBUG - Creo la query
+2021-03-03 06:11:47 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:11:47 - DEBUG - Chiudo la connessione
+2021-03-03 06:11:47 - INFO - closeConnection, chiudo la connessione
+2021-03-03 06:12:55 - INFO - getDaoByKey, tabella:clienti, chiave:
+2021-03-03 06:12:55 - INFO - connect, Connessione di default
+2021-03-03 06:12:55 - INFO - connectWithPar, nomehost:localhost, nomeuser:root, nomedb:northwind
+2021-03-03 06:12:55 - DEBUG - Tentativo di connessione
+2021-03-03 06:12:56 - DEBUG - Connessione riuscita
+2021-03-03 06:12:56 - DEBUG - Creo la query
+2021-03-03 06:12:56 - DEBUG - Eseguo la query SELECT * FROM northwind.clienti
+2021-03-03 06:12:56 - DEBUG - Chiudo la connessione
+2021-03-03 06:12:56 - INFO - closeConnection, chiudo la connessione
